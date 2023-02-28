@@ -11,8 +11,8 @@ you can explore them by registering yourself through the register button.
 
 write the following commands step by step in gitbash
 
-source env/Scripts/activate
-python manage.py runserver
+<1> source env/Scripts/activate
+<2> python manage.py runserver
 
 # for Complete features login with below ID
 
